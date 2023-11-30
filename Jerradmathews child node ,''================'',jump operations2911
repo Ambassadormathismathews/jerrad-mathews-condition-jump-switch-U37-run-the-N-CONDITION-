@@ -1,9 +1,37 @@
-SO_S1_PUP_hight;FE_low
+malSO_S1_PUP_hight;FE_low
 n's'    {','\'\' }the74S138 docoderU32,33PUSH,POP,STACK,
 EAR "OUTPUT2,','================',',\'\'\ DR GARY LADREE301-405-3008 glafree@umd.edu,"=",SUB.ID''out1"
 RO0001,R1with0002....R158000. 
 micro contrfoller
-ALU
+ALUBEGIN_MAP 28
+POS_GENERAL 2038                
+POS_TIME 2724                
+POS_VISITOR 148509              
+POS_DAY 1314013             
+POS_DOMAIN 3884                
+POS_LOGIN 7319                
+POS_ROBOT 7474                
+POS_WORMS 8469                
+POS_EMAILSENDER 8600                
+POS_EMAILRECEIVER 8743                
+POS_SESSION 1315103             
+POS_SIDER 1315324             
+POS_FILETYPES 8878                
+POS_DOWNLOADS 9278                
+POS_OS 10305               
+POS_BROWSER 10941               
+POS_SCREENSIZE 21327               
+POS_UNKNOWNREFERER 21401               
+POS_UNKNOWNREFERERBROWSER 34270               
+POS_ORIGIN 44565               
+POS_SEREFERRALS 44730               
+POS_PAGEREFS 45071               
+POS_SEARCHWORDS 64057               
+POS_KEYWORDS 74552               
+POS_MISC 2385                
+POS_ERRORS 79542               
+POS_CLUSTER 7175
+
 port controller and main memory
 ifu
 devices
