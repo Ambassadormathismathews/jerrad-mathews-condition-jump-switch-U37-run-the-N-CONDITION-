@@ -9,7 +9,13 @@ PDFSupport ed/too
 FlashSupport Air Force 1
 WindowsMediaPlayerSupport 714
 AddToFavourites 0 4479 0
-JavaEnabled 0 0 0malSO_S1_PUP_hight;FE_low
+JavaEnabled 0 0 git commit <files>
+git rebase -i origin # use interactive rebase to squash the new commit into the old one.
+git log # observe new hash for the change
+git checkout review-changeN
+git reset --hard # remove the previous version of the change
+git cherry-pick <new hash of change N>
+git cl upload;FE_low
 n's'    {','\'\' }the74S138 docoderU32,33PUSH,POP,STACK,
 EAR "OUTPUT2,','================',',\'\'\ DR GARY LADREE301-405-3008 glafree@umd.edu,"=", alpha.ID''9261120"
 RO0001,R1with0002....R158000. 
