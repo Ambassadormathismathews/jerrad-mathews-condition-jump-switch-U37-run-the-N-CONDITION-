@@ -57,7 +57,34 @@ PDFSupport 0 0 0
 FlashSupport 0 0 0
 WindowsMediaPlayerSupport 0 0 0
 AddToFavourites 0 4479 0
-JavaEnabled 0 0 0
+JavaEnabled 0 0 0 contrfoller
+ALUBEGIN_MAP 28
+POS_GENERAL 2038                
+POS_TIME 2724                
+POS_VISITOR 148509              
+POS_DAY 1314013             
+POS_DOMAIN 3884                
+POS_LOGIN 7319                
+POS_ROBOT 7474                
+POS_WORMS 8469                
+POS_EMAILSENDER 8600                
+POS_EMAILRECEIVER 8743                
+POS_SESSION 1315103             
+POS_SIDER 1315324             
+POS_FILETYPES 8878                
+POS_DOWNLOADS 9278                
+POS_OS 10305               
+POS_BROWSER 10941               
+POS_SCREENSIZE 21327               
+POS_UNKNOWNREFERER 21401               
+POS_UNKNOWNREFERERBROWSER 34270               
+POS_ORIGIN 44565               
+POS_SEREFERRALS 44730               
+POS_PAGEREFS 45071               
+POS_SEARCHWORDS 64057               
+POS_KEYWORDS 74552               
+POS_MISC 2385                
+POS_ERRORS 79542
 12 8475 15194 983234124 2948 4291 98610513
 13 8556 15345 1020746072 3439 4992 139517663
 14 8128 14906 990053120 2980 4306 99198717
